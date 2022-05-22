@@ -13,10 +13,11 @@
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="Figma" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-2-1.png" />
+<br>
 
 ### Technologies:
 
