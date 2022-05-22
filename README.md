@@ -1,4 +1,6 @@
-### Hi there 👋
+![cover](https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/profile-cover.png)
+
+# Mahmoud Kamal
 
 <!--
 **imMahmoudKamal/imMahmoudKamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
