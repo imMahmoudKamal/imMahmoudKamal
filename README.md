@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/immahmoudkamal/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/immahmoudkamal/#gh-dark-mode-only)
+[(https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-light.svg)](https://www.linkedin.com/in/immahmoudkamal/#gh-light-mode-only)
+[(https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-dark.svg)](https://www.linkedin.com/in/immahmoudkamal/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
