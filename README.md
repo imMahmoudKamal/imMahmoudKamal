@@ -3,9 +3,8 @@
 # Mahmoud Kamal
 
 ### Connect with me:
-
-![icon](https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-light.svg)(https://www.linkedin.com/in/immahmoudkamal/#gh-light-mode-only)
-![icon][!(https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-dark.svg)](https://www.linkedin.com/in/immahmoudkamal/#gh-dark-mode-only)
+[<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-light.svg" style="padding:0 10px 10px 0;" />](https://www.linkedin.com/in/immahmoudkamal/#gh-light-mode-only)
+[<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-dark.svg" style="padding:0 10px 10px 0;" />](https://www.linkedin.com/in/immahmoudkamal/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
