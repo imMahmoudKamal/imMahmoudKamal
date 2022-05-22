@@ -10,8 +10,6 @@
 [<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/facebook-light.svg" style="padding:0 10px 10px 0;" />](https://facebook.com/imMahmoudKamal/#gh-light-mode-only)
 [<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/facebook-dark.svg" style="padding:0 10px 10px 0;" />](https://facebook.com/imMahmoudKamal/#gh-dark-mode-only)
 
-</br>
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:0 10px 10px 0;" />
