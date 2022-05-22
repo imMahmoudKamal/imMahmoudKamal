@@ -2,6 +2,17 @@
 
 # Mahmoud Kamal
 
+Innovative Frontend Developer with experience building and maintaining responsive websites.
+Proficient in HTML, CSS, JavaScript and React.JS, plus modern libraries and frameworks. Passionate about
+usability and possess working knowledge of graphic design tools.
+
+## I'm a Frontend Developer
+
+- 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about **Nextjs, MEARN**
+- 📫 How to reach me **imMahmoudKamal@gmail.com**
+- ⚡ Fun fact **I am Funny**
+
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-light.svg" />](https://www.linkedin.com/in/immahmoudkamal/#gh-light-mode-only)
