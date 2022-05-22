@@ -3,8 +3,14 @@
 # Mahmoud Kamal
 
 ### Connect with me:
+
 [<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-light.svg" style="padding:0 10px 10px 0;" />](https://www.linkedin.com/in/immahmoudkamal/#gh-light-mode-only)
 [<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/linkedin-dark.svg" style="padding:0 10px 10px 0;" />](https://www.linkedin.com/in/immahmoudkamal/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/facebook-light.svg" style="padding:0 10px 10px 0;" />](https://facebook.com/imMahmoudKamal/#gh-light-mode-only)
+[<img align="left" alt="Visual Studio Code" width="20px" height="20px" src="https://github.com/imMahmoudKamal/imMahmoudKamal/blob/main/facebook-dark.svg" style="padding:0 10px 10px 0;" />](https://facebook.com/imMahmoudKamal/#gh-dark-mode-only)
+
+</br>
 
 ### Languages and Tools:
 
